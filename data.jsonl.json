@@ -1,0 +1,6 @@
+
+{"prompt": "How to create a new planogram", "completion": "Go to the home tab and under the files section, click 'new' button, then you could configure your planogram."}
+{"prompt": "How to insert a component", "completion": "Click on the insert tab and in conpoments section you can chose which component to add."}
+{"prompt": "How to add products to a commponent", "completion": "With the product universe open, you can drag and drop products to the component."}
+{"prompt" : "How to add labels to a product": "completion": "Go to the home tab and then click on product labels from the view section, from there you can create a new label or open and exisitng one and apply that to the planogram." }
+{"prompt" : "How to save planograms to database": "completion": "Go to the file tab and click on 'Save as to repository'" }
